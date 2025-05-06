@@ -1,17 +1,18 @@
 /*{
     outline: 1px solid black;
-} 
-*/
-body{
-    background-image: url("./kepek/hatter.jpg") !important;
+}*/
+
+.urlap{
+    background-image: url("./kepek/hatter.jpg");
     background-size: cover;
     background-attachment: fixed;
     backdrop-filter: blur(10px);
+    background-repeat: no-repeat;
 }
 
 form{
     display: grid;
-    gap: 15px;
+    gap: 20px;
 }
 
 .input-container{
@@ -26,7 +27,6 @@ form{
 .radio {
     margin-left: 8px;
 }
-
 
 button {
     width: 140px; 

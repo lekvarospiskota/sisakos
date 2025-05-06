@@ -8,6 +8,7 @@ body{
 h1 {
     text-align: center;
 }
+
 h2 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -81,12 +82,9 @@ figcaption, footer{
     .btn-secondary {
         background-color:#003a4d !important;
         margin-bottom: 20px;
-        border: none !important;
     }
     
-    .dropdown-item:hover {
-        background-color: #918f8f !important;
-    }
+    
 }
 
 
